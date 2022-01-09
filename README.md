@@ -45,6 +45,7 @@ Your grade will be determined by your work on
   * Present as a team (every 2 weeks)
 
 ## Resources
+* [Miro](https://miro.com/)
 * [Git](https://git-scm.com/) and [GitHub](https://github.com/)
 * [Static code analysis tools](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
 * [Testing strategies](https://martinfowler.com/articles/microservice-testing/)
