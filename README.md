@@ -23,6 +23,36 @@
 | 16 | - | Observability and Monitoring tools part 2| - | -
 | 17 | N/A | Final exam| - | -
 
-## List of workshops
+## Course Evaluation
+Your grade will be determined by your work on
+
+| No.  | Subject            | %     |
+| ---- |:------------------:| -----:|
+| 1    | Quiz + Homework + Mini-project | 50 |
+| 2    | Quiz               | 10 |
+| 3    | Midterm exam       | 20 |
+| 4    | Final exam         | 20 |
+
+## 3. Semester project and Homeworks
+* Working as a team (4-5 peoples)
+* Homeworks and Semester project will be subbmited via [GitHub](https://github.com/)
+  * Documentation of project in Wiki format
+  * Source codes
+    * Working software
+    * Clean Code
+  * Testing
+  * CI/CD
+  * Present as a team (every 2 weeks)
 
 ## Resources
+* [Git](https://git-scm.com/) and [GitHub](https://github.com/)
+* [Static code analysis tools](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
+* [Testing strategies](https://martinfowler.com/articles/microservice-testing/)
+* [Jenkins](https://www.jenkins.io/)
+* [Docker](https://docs.docker.com/get-docker/)
+* [Kubernetes](https://kubernetes.io/)
+
+## Books
+* [Continuous Integration](Continuous Integration: Improving Software Quality and Reducing Risk)
+* [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/)
+* [DevOps](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404)
