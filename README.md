@@ -53,6 +53,6 @@ Your grade will be determined by your work on
 * [Kubernetes](https://kubernetes.io/)
 
 ## Books
-* [Continuous Integration](Continuous Integration: Improving Software Quality and Reducing Risk)
+* [Continuous Integration](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
 * [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/)
 * [DevOps](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404)
