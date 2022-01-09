@@ -1,4 +1,4 @@
-# Course-kmitl-sw-dev-tools-and-environments
+# Course :: Software Development Tools And Environments
 
 
 ## Course outline
