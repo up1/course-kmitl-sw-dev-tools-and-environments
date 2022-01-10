@@ -6,16 +6,16 @@
 
 ## Course outline
 
-| No. | Date |Topics | Detail | Remark |
-| ------ | ------ |------ |------ |------ |
-| 1 | 2022/01/10 | Project management and collaboration tools for software development part 1| - | [Task 1](https://github.com/up1/course-kmitl-sw-dev-tools-and-environments/wiki/Project-Management-tools)
-| 2 | 2022/01/17 | Project management and collaboration tools for software development part 2| - | -
-| 3 | 2022/01/24 | Version control with Git part 1| - | -
-| 4 | 2022/02/07 | Version control with Git part 2| - | -
-| 5 | 2022/02/14 | Software packaging, testing and deployment tools part 1| - | -
-| 6 | 2022/02/21 | Software packaging, testing and deployment tools part 2| - | -
-| 7 | 2022/02/28 | Software packaging, testing and deployment tools part 3| - | -
-| 8 | N/A | Mid-term exam| - | -
+| No. | Date |Topics | Detail | Remark | Recording |
+| ------ | ------ |------ |------ |------ |------ |
+| 1 | 2022/01/10 | Project management and collaboration tools for software development part 1| - | [Task 1](https://github.com/up1/course-kmitl-sw-dev-tools-and-environments/wiki/Project-Management-tools)|
+| 2 | 2022/01/17 | Project management and collaboration tools for software development part 2| - | -|
+| 3 | 2022/01/24 | Version control with Git part 1| - | -|
+| 4 | 2022/02/07 | Version control with Git part 2| - | -|
+| 5 | 2022/02/14 | Software packaging, testing and deployment tools part 1| - | - |
+| 6 | 2022/02/21 | Software packaging, testing and deployment tools part 2| - | - |
+| 7 | 2022/02/28 | Software packaging, testing and deployment tools part 3| - | - |
+| 8 | N/A | Mid-term exam| - | - |
 | 9 | 2022/03/14 | Continuous Integration and Continuous Deployment part 1| - | -
 | 10 | 2022/03/21 | Continuous Integration and Continuous Deployment part 2| - | -
 | 11 | 2022/04/04 | Continuous Integration and Continuous Deployment part 3| - | -
