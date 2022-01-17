@@ -3,6 +3,7 @@
 ## Documents and Links
 * [Miro for this course](https://miro.com/app/board/uXjVOXYrCeA=/?invite_link_id=121055574560)
 * [Score](https://docs.google.com/spreadsheets/d/1Wh190RybPn-NHkR8Dbt5hEbba3kWsobyd9hHnxE12uM/edit?usp=sharing)
+* [Facebook group](https://www.facebook.com/groups/3018414645086969)
 
 ## Course outline
 
