@@ -10,7 +10,7 @@
 | No. | Date |Topics | Detail | Remark | Recording |
 | ------ | ------ |------ |------ |------ |------ |
 | 1 | 2022/01/10 | Project management and collaboration tools for software development part 1| - | [Task 1](https://github.com/up1/course-kmitl-sw-dev-tools-and-environments/wiki/Project-Management-tools)| [YouTube Playlist :: week 01](https://www.youtube.com/playlist?list=PL2jvm-RfIEMo02MWpXITFRXGhw5qkOngq)
-| 2 | 2022/01/17 | Project management and collaboration tools for software development part 2| - | -|
+| 2 | 2022/01/17 | Project management and collaboration tools for software development part 2| - | [Task 2](https://github.com/up1/course-kmitl-sw-dev-tools-and-environments/wiki/Flow-A)|
 | 3 | 2022/01/24 | Version control with Git part 1| - | -|
 | 4 | 2022/02/07 | Version control with Git part 2| - | -|
 | 5 | 2022/02/14 | Software packaging, testing and deployment tools part 1| - | - |
