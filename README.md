@@ -12,7 +12,7 @@
 | 1 | 2022/01/10 | Project management and collaboration tools for software development part 1| - | [Task 1](https://github.com/up1/course-kmitl-sw-dev-tools-and-environments/wiki/Project-Management-tools)| [YouTube Playlist :: week 01](https://www.youtube.com/playlist?list=PL2jvm-RfIEMo02MWpXITFRXGhw5qkOngq)
 | 2 | 2022/01/17 | Project management and collaboration tools for software development part 2| - | [Task 2](https://github.com/up1/course-kmitl-sw-dev-tools-and-environments/wiki/Flow-A)|[YouTube Playlist :: week 01](https://www.youtube.com/playlist?list=PL2jvm-RfIEMo02MWpXITFRXGhw5qkOngq)
 | 3 | 2022/01/24 | Version control with Git part 1| [Slide](https://github.com/up1/course-scm-with-git) | Task 3|[YouTube Playlist :: week 01](https://www.youtube.com/playlist?list=PL2jvm-RfIEMo02MWpXITFRXGhw5qkOngq)
-| 4 | 2022/01/31 | Version control with Git part 2| [Slide](https://github.com/up1/course-scm-with-git) | -|
+| 4 | 2022/01/31 | Version control with Git part 2| [Slide](https://github.com/up1/course-scm-with-git) | [Task 4](https://github.com/up1/course-kmitl-sw-dev-tools-and-environments/wiki/Task-4)|
 | 5 | 2022/02/14 | Software packaging, testing and deployment tools part 1| - | - |
 | 6 | 2022/02/21 | Software packaging, testing and deployment tools part 2| - | - |
 | 7 | 2022/02/28 | Software packaging, testing and deployment tools part 3| - | - |
