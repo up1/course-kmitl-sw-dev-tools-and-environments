@@ -14,7 +14,7 @@
 | 3 | 2022/01/24 | Version control with Git part 1| [Slide](https://github.com/up1/course-scm-with-git) | Task 3|[YouTube Playlist :: week 01](https://www.youtube.com/playlist?list=PL2jvm-RfIEMo02MWpXITFRXGhw5qkOngq)
 | 4 | 2022/01/31 | Version control with Git part 2| [Slide](https://github.com/up1/course-scm-with-git) | [Task 4](https://github.com/up1/course-kmitl-sw-dev-tools-and-environments/wiki/Task-4)|
 | 5 | 2022/02/07 | Software packaging, testing and deployment tools part 1| [Technical Excellence](https://less.works/less/technical-excellence), [Testing strategies](https://martinfowler.com/articles/microservice-testing/) |   |
-| 6 | 2022/02/21 | Software packaging, testing and deployment tools part 2| - |[Task 5](https://github.com/up1/course-kmitl-sw-dev-tools-and-environments/wiki/Task-5) | - |
+| 6 | 2022/02/21 | Software packaging, testing and deployment tools part 2| Review project structure, Deployment |[Task 5](https://github.com/up1/course-kmitl-sw-dev-tools-and-environments/wiki/Task-5) | - |
 | 7 | 2022/02/28 | Software packaging, testing and deployment tools part 3| - | - |
 | 8 | N/A | Mid-term exam| - | - |
 | 9 | 2022/03/14 | Continuous Integration and Continuous Deployment part 1| - | -
