@@ -18,7 +18,7 @@
 | 7 | 2022/02/28 | ~Software packaging, testing and deployment tools part 3~| - | - |
 | 8 | N/A | Mid-term exam| - | - |
 | 9 | 2022/03/14 | [Continuous Integration and Continuous Deployment part 1](https://github.com/up1/workshop-ci-cd-with-jenkins)| - |[Task 6](https://github.com/up1/course-kmitl-sw-dev-tools-and-environments/wiki/Task-6) | - |
-| 10 | 2022/03/21 | Continuous Integration and Continuous Deployment part 2| - | -
+| 10 | 2022/03/21 | Continuous Integration and Continuous Deployment part 2 :: Deployment <br/> [Introduction to Docker](https://github.com/up1/course-introduction-docker)| - | -
 | 11 | 2022/04/04 | Continuous Integration and Continuous Deployment part 3| - | -
 | 12 | 2022/04/11 | Working with containerization Docker and Kubernetes part 1| - | -
 | 13 | 2022/04/25 | Working with containerization Docker and Kubernetes part 2| - | -
